@@ -1,0 +1,2 @@
+#int
+printf("hello world")
